@@ -1,4 +1,4 @@
-# InteligenciaArtificial
+# ML - Previsão utilizando RandomForestRegressor
 # DESAFIO: Prever o preço de barcos baseado nas características do barco, como: ano, tamanho, tipo de barco, se é novo ou usado, qual material usado, etc.
 
 1. Análise da correlação das colunas da tabela "barco_ref.csv" com a coluna preço.
